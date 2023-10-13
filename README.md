@@ -38,10 +38,10 @@ gantt
 　　專案主題發想     : a1 , 2023-10-03 , 5d
     採集文獻     : a2 , after a1 , 3d
     資料分析    : a3 , after a1 , 2d
-    程式開發     : a4 , after a3 , 15d
+    程式開發     : a4 , after a2 , 15d
     系統測試與修正     : a5 , after a4 , 10d
-     使用者測試     : a6 , after a5 , 32d
+    使用者測試     : a6 , after a4 a5 , 32d
     拍攝影片     : a7 , after a6 , 1d
     影片剪輯   : a8 , after a7 ,5d
-    製作簡報   : a8 , after a7 ,3d
+    製作簡報   : a9 , after a8 ,3d
 ```
