@@ -47,3 +47,5 @@ gantt
     影片剪輯   : a8 , after a7 ,5d
     製作簡報   : a9 , after a7 ,9d
 ```
+### PERT/CPM圖
+![PERT](工作分配.jpg)
