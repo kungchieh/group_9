@@ -63,6 +63,11 @@ gantt
 |3|因系統主要針對的對象為幼年孩童，因此設計出來的介面需相對的**簡單且明瞭**，讓使用者能更容易上手。|
 ---
 
+### 功能分解圖(functional decomposition diagram, FDD)
+![功能分解圖](功能分解圖.png)
+
+---
+
 ### 使用案例圖 USE CASE DIAGRAM
 ![use_case](use_case.png)
 
