@@ -69,7 +69,7 @@ gantt
 ---
 
 ### 使用案例圖 USE CASE DIAGRAM
-![use_case](use_case.png)
+![use_case](use_case1.png)
 
 ---
 
