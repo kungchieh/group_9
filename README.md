@@ -85,3 +85,8 @@ gantt
 ![use_case](student1.png)
 ![use_case](teacher1.png)
 ![use_case](engineer1.png)
+
+---
+
+### Figma動態模擬圖
+![PERT](Figma.png)
