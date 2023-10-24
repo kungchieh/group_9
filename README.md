@@ -94,8 +94,9 @@ gantt
 ---
 
 ### 系統環境圖 (DFD)
-
+![DFD](DFD1.png)
 
 ---
 
 ### DFD 圖0
+![DFD](DFD2.png)
