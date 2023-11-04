@@ -105,6 +105,8 @@ gantt
 
 ### UML類別圖
 
+![class](class.png)
+
 ---
 
 ### 循序圖與活動圖
