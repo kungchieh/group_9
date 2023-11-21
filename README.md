@@ -123,3 +123,6 @@ gantt
 ---
 ### 分鏡板(storyboard) 
 ![natural](natural.png)
+![plus_game](plus_game.png)
+![guess_code](guess_code.png)
+![1a2b](1a2b.png)
