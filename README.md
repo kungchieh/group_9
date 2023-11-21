@@ -122,7 +122,15 @@ gantt
 
 ---
 ### 分鏡板(storyboard) 
-![natural](natural.png)
-![plus_game](plus_game.png)
-![guess_code](guess_code.png)
+![Login](登入.JPG)
+![Home](主畫面.JPG)
+![Chinese](國文.JPG)
+![English](英文.jpg)
+![Music](音樂.JPG)
+![Natural](natural.png)
+![Forum](討論區.JPG)
+![Paint](數位塗鴉.JPG)
+![Plus_Game](plus_game.png)
+![Guess_Code](guess_code.png)
 ![1a2b](1a2b.png)
+![Reason](成立原因.JPG)
