@@ -119,3 +119,7 @@ gantt
 ## (三)系統的維護
 ![循序圖]((3)循序圖.png)
 ![活動圖]((3)活動圖.png)
+
+---
+### 分鏡板(storyboard) 
+![natural](natural.png)
