@@ -134,3 +134,12 @@ gantt
 ![Guess_Code](guess_code.png)
 ![1a2b](1a2b.png)
 ![Reason](成立原因.JPG)
+
+---
+
+### 實體關係圖(ERD圖)
+
+![ERD圖](ERD圖.png)
+
+---
+
